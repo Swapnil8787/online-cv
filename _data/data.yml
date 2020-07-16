@@ -7,53 +7,53 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Swapnil Srivastava
+    tagline: Machine Learning Enthusiast and a Full stack developer. 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: swapnil_bt18@iiitkalyani.ac.in
+    phone: 08787292209
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: swapnil-srivastava-aa5926195
+    github: Swapnil8787
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: ''
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Competitive Coding
         link:
 
-      - item: Snowboarding
+      - item: Cricket
         link:
 
-      - item: Cooking
+      - item: Badminton
+        link:
+        
+      - item: Swimming
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Self-Motivated and an enthusiastic person. I have keen interest in fields like Machine Learning, Deep learning, Natural language processing(NLP),
+      open-cv and full stack web development. You can [download this free resume/CV template here](). I believe perseverance is the key to success and
+      the only way-out to improve a person's skills. I have been into Machine learning for over a year now and i am familiar with libraries like 
+      tensorflow and keras. I also know different machine learning models for regression analysis, classification, reinforcement learning, clustering,
+      association rule learning as well as neural networks.
+      
 education:
     - degree: MSc in Computer Science
       university: University of London
