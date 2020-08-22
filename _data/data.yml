@@ -77,20 +77,26 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+     - degree: Matriculation
+      university: Lucknow Public College, Sahara States
+      time: 2014-2015
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet poin
+experiences:
+    - role: Student Member of Institution's Innovation Council
+      time: 2018-19
+      company: MHRD's Innovation Cell
+      details: |
+       The primary focus of my role as a student member was to  encourage, inspire and nurture
+young students by supporting them to work with new ideas while they are in formative years. I took initiative in conducting various innovation and entrepreneurship-related activities prescribed by
+Central MIC in time bounded fashion.We were also successful in managing different live sessions with people like "Mr. Anand Gopal Mahindra", "Dr. Anand Deshpande" and "Prof. Anil D Sahasrabudhe" under the MHRD's initiative "India First Leadership Talk Series".
+
           - Bullet point
           - Bullet point
     - role: Senior Software Engineer
