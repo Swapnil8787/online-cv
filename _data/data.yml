@@ -77,7 +77,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-     - degree: Matriculation
+    - degree: Matriculation
       university: Lucknow Public College, Sahara States
       time: 2014-2015
       details: |
@@ -88,6 +88,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+      
 experiences:
     - role: Secretary of the Innovation Department at Algoholic
       time: 2019-20
