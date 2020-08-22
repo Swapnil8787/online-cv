@@ -87,7 +87,7 @@ education:
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
           - Bullet point
-          - Bullet poin
+          - Bullet point
 experiences:
     - role: Secretary of the Innovation Department at Algoholic
       time: 2019 - 2020
@@ -100,6 +100,8 @@ experiences:
          the Annual Day-Long Coding Competition of IIIT Kalyani called as "Codacharya". I also organised an internal campus mini hackathon
          version of the "Hactoberfest 2019" to familiarise students with open source contribution.I was also actively involved in organising
          different contests on coding platforms like codechef and codeforces.
+         - Bullet point
+         - Bullet point
          
     - role: Student Member of Institution's Innovation Council
       time: 2018-19
@@ -115,6 +117,8 @@ experiences:
     opportunities to nurture and prototype new ideas.We also organized the in campus internal rounds 
     of the "Smart India Hackathon" which turned out to be a huge success as many students actively participated
     and displayed their innovative ideas.
+    - Bullet point
+    - Bullet point
     
 projects:
     title: Projects
