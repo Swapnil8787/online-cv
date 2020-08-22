@@ -89,41 +89,33 @@ education:
           - Bullet point
           - Bullet poin
 experiences:
+    - role: Secretary of the Innovation Department at Algoholic
+      time: 2019 - 2020
+      company: Algoholic,the technical club of the Indian Institute of Information Technology,Kalyani
+      details: |
+         My aim as the Secretary of the Innovation Department was to promote programming as a culture in the Institute
+         by organizing different workshops on coding for beginners,to familiarize the students with different coding platforms like 
+         Hackerrank,Codechef,Codeforces,Leetcode and Hackerearth and to organise different coding competitions.I took initiative in 
+         organising a weekly workshop for students who are absolute beginners at competetive programming.I was also involved at organising
+         the Annual Day-Long Coding Competition of IIIT Kalyani called as "Codacharya". I also organised an internal campus mini hackathon
+         version of the "Hactoberfest 2019" to familiarise students with open source contribution.I was also actively involved in organising
+         different contests on coding platforms like codechef and codeforces.
+         
     - role: Student Member of Institution's Innovation Council
       time: 2018-19
       company: MHRD's Innovation Cell
       details: |
        The primary focus of my role as a student member was to  encourage, inspire and nurture
-young students by supporting them to work with new ideas while they are in formative years. I 
-took initiative in conducting various innovation and entrepreneurship-related activities prescribed
-by Central MIC in time bounded fashion.We were also successful in managing different live sessions
-with people like "Mr. Anand Gopal Mahindra", "Dr. Anand Deshpande" and "Prof. Anil D Sahasrabudhe" 
-under the MHRD's initiative "India First Leadership Talk Series".
-
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    young students by supporting them to work with new ideas while they are in formative years. I 
+    took initiative in conducting various innovation and entrepreneurship-related activities prescribed
+    by Central MIC in time bounded fashion.We were also successful in managing different live sessions
+    with people like "Mr. Anand Gopal Mahindra", "Dr. Anand Deshpande" and "Prof. Anil D Sahasrabudhe" 
+    under the MHRD's initiative "India First Leadership Talk Series".We also organised different Hackathons,
+    idea competitions, mini-challenges etc to promote an innovation eco-system and to provide different 
+    opportunities to nurture and prototype new ideas.We also organized the in campus internal rounds 
+    of the "Smart India Hackathon" which turned out to be a huge success as many students actively participated
+    and displayed their innovative ideas.
+    
 projects:
     title: Projects
     intro: >
