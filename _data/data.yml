@@ -127,21 +127,20 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Face Recognition using Open-Cv and Machine learning using python
+        link: "https://github.com/Swapnil8787/Python-based-Face-Recognition"
+        tagline: "This is a simple python face recogniton which can detect multiple faces at the same time.
+        Based on open-cv and sklearn library this is a program that detects face and display name on the window.
+        It has the ability to add a new face to detect."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Products-webpage
+        link: "https://github.com/Swapnil8787/Products-webpage"
+        tagline: "A responsive website template designed to to showcase products manufactured by a company XYZ.in and to promote their products."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Python Calculator Using Tkinter
+        link: "https://github.com/Swapnil8787/GUI-Python-Calculator-"
+        tagline: "Python Calculator Using Tkinter.This is GUI based application of the calculator using Tkinter module of Python"
 
       - title: Atom
         link: "#"
@@ -177,23 +176,41 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Machine Learning and Data Analytics
+        level: 98%
+        
+      - name: Full Stack Web Development
+        level: 80%
+         
+      - name: Octave and Scilab
+        level: 80%
+          
+      - name: node.js 
+        level: 98%
+       
+      - name: MongoDb
+        level: 98%
+        
+      - name: express.js
+        level: 98%
+        
+      - name: Python 
         level: 98%
 
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
+      - name: Bootstrap
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: C++ and C
+        level: 98%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name:  Core Java
+        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
