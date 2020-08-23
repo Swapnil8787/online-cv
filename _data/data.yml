@@ -55,39 +55,24 @@ career-profile:
       association rule learning as well as neural networks.
       
 education:
-    - degree: B.tech Undergraduate in Computer Science & Engineering
+    - degree: B.tech Undergraduate
       university: Indian Institute of Information Technology,Kalyani
       time: 2018-2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Branch: Computer Science and Engineering
+          - CGPA: 9.89
     - degree: Higher Secondary Education
       university: Lucknow Public College, Sahara States
       time: 2016-2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - ISC Board
+          - Percentage:93%
     - degree: Matriculation
       university: Lucknow Public College, Sahara States
       time: 2014-2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - ICSE Board
+          - Percentage:96%
       
 experiences:
     - role: Secretary of the Innovation Department at Algoholic
